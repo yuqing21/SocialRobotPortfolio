@@ -25,7 +25,7 @@
 ## About Me
 | Member | Brief Introduction | Personal Page |
 | :----: | :-----------------: | :-----------: |
-| Your Name | A short paragraph about your background, studies, hobbies related to robotics/design. | [CV Link](link-to-your-cv) |
+| Yuqing Liu | Passionate MSc student specializing in robotics, with a strong background in mechatronics and robotic systems. Skilled in kinematics, robot control, embedded systems, and computer vision. Currently exploring machine perception, autonomous navigation, and reinforcement learning.| [CV Link](link-to-your-cv) |
 
 ---
 
