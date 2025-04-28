@@ -31,8 +31,8 @@ Supervisor: Dr. Min Chen | Jun 2023 – Aug 2023
 
 ## Short Résumé
 
-### 2023 — ETRON Technologies — R&D Intern
-  Suzhou, Jiangsu, China | Jun 2022 – Aug 2022
+### 2022 — ETRON Technologies — R&D Intern
+  Suzhou, Jiangsu, China | Feb 2022 – Aug 2022
   
 - Responsible for development and debugging of the upper computer system on an electrical medical microscope.
 - Gained hands-on experience in C, C++ programming and embedded systems development.
