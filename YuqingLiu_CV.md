@@ -47,7 +47,7 @@ Supervisor: Dr. Min Chen | Jun 2023 – Aug 2023
 - **SLAM**: LiDAR and IMU fusion mapping (UT)
 - **Software Development for Robotics**: Linux, ROS2, C++, Xenomai (UT)
 - **Kalman Filtering**: Dynamic system optimal estimation (UT)
-- **C / C++ Programming**: ABB RobotStudio (XJTLU)
+- **Embeded C / C++ Programming**: Keil5 (XJTLU)
 - **Programming Languages**: Python, C++, MATLAB
 
 ---
