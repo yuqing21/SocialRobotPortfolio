@@ -25,14 +25,24 @@
 ## About Me
 | Member | Brief Introduction | Personal Page |
 | :----: | :-----------------: | :-----------: |
-| Yuqing Liu | Passionate MSc student specializing in robotics, with a strong background in mechatronics and robotic systems. Skilled in kinematics, robot control, embedded systems, and computer vision. Currently exploring machine perception, autonomous navigation, and reinforcement learning.| [CV Link](link-to-your-cv) |
+| Yuqing Liu | Passionate MSc student specializing in robotics, with a strong background in mechatronics and robotic systems. Skilled in kinematics, robot control, embedded systems, and computer vision. Currently exploring machine perception, autonomous navigation, and reinforcement learning.| [CV Link]("D:\Profolio\YuqingLiu_CV.md") |
 
 ---
 
 ## Group Work
 
-### Case Description
-> Briefly describe the case or project your group worked on.
+## Case Description
+
+Our project aims to explore the potential applications of the TIAGo robot in simple but essential service tasks. TIAGo is a mobile platform with a manipulator arm featuring limited degrees of freedom, making it suitable for basic navigation and light manipulation tasks rather than highly complex operations.
+
+We propose several use cases for TIAGo in urban and semi-structured environments:
+
+- **Street cleaning and scanning robot**: Performing light street cleaning duties, such as collecting litter or scanning sidewalk conditions, to assist in maintaining public spaces.
+- **Indoor delivery assistant**: Transporting lightweight items within hotels, offices, or hospitals — such as delivering packages or small supplies to designated locations.
+- **Routine inspection robot**: Conducting scheduled patrols in controlled areas (like hotel lobbies or exhibition centers) to monitor environmental conditions, identify obstacles, or report simple anomalies.
+
+Rather than targeting complex missions like explosive detection, our focus is on feasible and scalable service tasks that align with TIAGo’s physical capabilities. The goal is to design adaptable modules that allow TIAGo to switch between indoor and semi-outdoor roles, enhancing its overall utility.
+
 
 ### Selection of Useful Design Tools
 > List and explain the design tools selected.

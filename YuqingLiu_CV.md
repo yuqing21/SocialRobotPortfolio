@@ -25,7 +25,7 @@ Supervisor: Dr. Min Chen | Jun 2023 – Aug 2023
 - Responsibilities included end effector design, topology optimization, and computer vision algorithm development using OpenCV.
 - Developed an enhanced visual recognition system for better object detection and laboratory task automation.
 
-![poster]("D:\Profolio\portfolio\image\poster.jpg")
+![pic]("D:\Profolio\portfolio\image\poster.jpg")
 
 ---
 
