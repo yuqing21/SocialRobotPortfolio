@@ -25,7 +25,7 @@
 ## About Me
 | Member | Brief Introduction | Personal Page |
 | :----: | :-----------------: | :-----------: |
-| Yuqing Liu | Passionate MSc student specializing in robotics, with a strong background in mechatronics and robotic systems. Skilled in kinematics, robot control, embedded systems, and computer vision. Currently exploring machine perception, autonomous navigation, and reinforcement learning.| [CV Link]("D:\Profolio\YuqingLiu_CV.md") |
+| Yuqing Liu | Passionate MSc student specializing in robotics, with a strong background in mechatronics and robotic systems. Skilled in kinematics, robot control, embedded systems, and computer vision. Currently exploring machine perception, autonomous navigation, and reinforcement learning.| [See CV.md] |
 
 ---
 
