@@ -67,13 +67,13 @@ Rather than targeting complex missions like explosive detection, our focus is on
 ## Reflections
 
 ### How is Design Research linked to HRI
-> Your reflection here.
+> Design research optimizes the interaction experience between humans and robots by understanding user needs. Applying design research in HRI can help robots integrate more naturally into the human environment and improve communication efficiency and emotional identification.
 
 ### Digital (AI) vs Embodiment
 > Your reflection here.
 
 ### Why is 'HER' (not) a Compelling Argument?
-> Your reflection here.
+> "Her" is a convincing film that shows the possibility of a deep emotional connection between humans and AI. However, the AI in the film has no entity, ignoring the important role of embodiment in establishing emotions, so it also has limitations..
 
 ### The Robot Revolution: When?
 > Your reflection here.
