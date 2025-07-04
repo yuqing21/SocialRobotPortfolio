@@ -400,9 +400,9 @@ At the age of 50, the robot intervenes in life as a practical tool, but not a co
 The ethical concern highlighted here is that over-reliance on robots may lead to social isolation over time, weakening the connection between people and human communities.
 This long-term change needs to be considered in the design stage to ensure that robots complement rather than replace the care of the elderly, and promote relationships between people rather than isolate people's social relationship.
 
-####Embodiment
-![示例图片](portfolio/1848aac8-5c6f-4322-9a99-1365673e9806.png)
-
+### Embodiment
+![示例图片](portfolio/embodiment1.png)
+![示例图片](portfolio/embodiment2.png)
 ---
 
 ---
