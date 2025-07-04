@@ -401,8 +401,8 @@ The ethical concern highlighted here is that over-reliance on robots may lead to
 This long-term change needs to be considered in the design stage to ensure that robots complement rather than replace the care of the elderly, and promote relationships between people rather than isolate people's social relationship.
 
 ### Embodiment
-![示例图片](portfolio/eb1.png)
-![示例图片](portfolio/eb1.png)
+![示例图片](eb1.png)
+![示例图片](eb1.png)
 ---
 
 ---
