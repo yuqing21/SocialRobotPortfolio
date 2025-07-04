@@ -67,7 +67,7 @@ Rather than targeting complex missions like explosive detection, our focus is on
 ## Reflections
 
 ### How is Design Research linked to HRI
-> Design research optimizes the interaction experience between humans and robots by understanding user needs. Applying design research in HRI can help robots integrate more naturally into the human environment and improve communication efficiency and emotional identification.
+Design research optimizes the interaction experience between humans and robots by understanding user needs. Applying design research in HRI can help robots integrate more naturally into the human environment and improve communication efficiency and emotional identification.
 
 ### Digital (AI) vs Embodiment
 > In class, Edwin brought us several companion little robots, there are small robot on a roller who will make nonverbal noises, desk robot that will wave and talk to you, and one to my best interst, robot cats that have close-to-reality fur, gesture, and can even "purr" like real cats. Among these different forms of social robots, the tension between "digitalization" (AI) and "embodiment"  is particularly evident.
@@ -81,21 +81,23 @@ The robot cat with simulated fur and "purring" sounds represents a peak attempt 
 Through this classroom experience, I realized that if social robots want to go beyond the role of "tools", they must be sufficiently "humanized" and "pseudo-life" in both AI algorithms (digital interaction) and hardware forms (body perception) - not only can they understand and respond, but they must also have a real "touch". If future designs can incorporate tactile feedback, temperature simulation, and even micro-expression changes, then social robots will be more likely to become “emotional partners” in our daily lives rather than just cold machines that make sounds or movements.
 
 ### Why is 'HER' (not) a Compelling Argument?
-> "Her" is a convincing film that shows the possibility of a deep emotional connection between humans and AI. However, the AI in the film has no entity, ignoring the important role of embodiment in establishing emotions, so it also has limitations..
+"Her" is a convincing film that shows the possibility of a deep emotional connection between humans and AI. However, the AI in the film has no entity, ignoring the important role of embodiment in establishing emotions, so it also has limitations..
 
 ### The Robot Revolution: When?
-> Your reflection here.
+Just like in the Industrial Revolution, technological innovation and market demand catalyzed each other: once the steam engine was improved and low-cost manufacturing was achieved, it was no longer limited to a certain factory, but was quickly applied to various industries such as textiles, mining, and transportation, bringing a cross-domain leap in productivity. When such a "universal power source" also appears in the field of robotics - for example, when the core natural language interaction, emotional perception, and modular hardware platform mature and reduce costs, it can be transplanted on a large scale to various scenarios such as family companionship, health management, and educational counseling, just like the steam engine, thus forming a positive feedback loop of demand-innovation-cost reduction, and finally triggering the next "robot revolution."
 
 ### Reflection: The Dinosaur Hotel
-> Your reflection here.
+The "dinosaur reception" is not only a show of avant-garde technology and service etiquette, but also exposes the limitations of social robots: they can bring short-term novelty with similar greetings and mechanical movements, but it is difficult to read the subtle emotions of customers, resolve sudden problems or provide real warmth; when guests are tired of the same "roaring welcome" and stiff operation in front of the touch screen, the charm of robots will quickly fade. Henn-na Hotel's attempt reminds us that while pursuing automation and efficiency, we should pay more attention to the emotional resonance and depth of experience in the interaction between people and machines. Otherwise, no matter how dazzling the robot is, it can only be a "moving exhibit" rather than a service provider who can truly replace people's hearts.
 
 ### Reflection: Nabaztag
-> Your reflection here.
+The rise and fall of Nabaztag reveals the lifeblood of social robots: it initially gained popularity with its cute shape and the "novelty" of desktop networking, but because natural language processing and emotional computing were not yet mature at the time, and networking and maintenance costs were high, the robot's interaction remained at the level of preset scripts and it was difficult to continue to provide fresh experiences. As the user's sense of novelty faded and the cost of use became apparent, Nabaztag quickly lost market popularity and eventually went bankrupt. This shows that if social robots want to achieve long-term success, they must focus on true language understanding and emotional resonance - only when they can both "understand" and "respond" to human individual needs and continuously generate new interactive value can they evolve from "toys" to "companions."
+
 
 ### Reflection: CuddleBits
-> Your reflection here.
+CuddleBits uses the familiar plush ball form as a starting point, greatly lowering the psychological threshold for interaction - with just a light touch, it can intuitively convey emotional states such as "excitement" or "pleasure" through the "breathing" rhythm and slight vibration. What's even more commendable is that the simple coding interface behind it allows developers and beginners to easily adjust the parameters of the emotional model: modifying a few lines of code can change the activity or happiness of the "ball". The open source hardware design and modular software framework not only accelerate prototype iteration, but also attract many creative teams to apply it to multiple scenarios such as education, healing and art. It is this design concept of "embodiment" of emotional expression and minimizing the technical threshold that makes CuddleBits not only a powerful tool for academic research, but also provides valuable inspiration and paradigms for the widespread implementation of embodied social robots in daily life in the future.
 
 ### Reflection: Be-Right-Back
-> Your reflection here.
+In Be-Right-Back, the human-machine relationship is pushed to an almost seamless state: the virtual Ash not only replicates the appearance, voice and speech, but also accurately imitates his interactive rhythm and emotional response, making it almost impossible to distinguish whether it is a real person or an "evolved ghost". When machines can perfectly replay the entire behavior pattern of an individual in social scenes, our judgment of "real emotions" will become increasingly vague - followed by a crisis of trust: we may rely more and more on the comfort brought by technology, but it will be more difficult to identify whether we rely on the human heart or the illusion of the algorithm. In the long run, the trust bond based on common experience and mutual commitment in social interactions may be diluted by layers of programmed "emotional scripts", triggering deeper trust traps and loneliness anxiety.
+Short stoy: LLM is destorying and reshape how society bonds.
 
 ---
