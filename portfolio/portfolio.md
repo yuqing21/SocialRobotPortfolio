@@ -12,8 +12,7 @@
 
 ## Group Work
 
-<details>
-<summary><strong> Case : ROSE </strong></summary>
+
 
 ### Case Description
 ROSE (Robot Operating System Environment) is a social robot development platform based on ROS, often using the TIAGo robot manufactured by PAL Robotics as its hardware foundation. TIAGo is a multifunctional robot that integrates a mobile base, robotic arm, elevating torso, and a variety of sensors (such as lidar, RGB-D cameras, etc.), and is widely used in research, education, and human-robot interaction fields. 
@@ -37,9 +36,9 @@ Application Scenarios
 (3) Health/nutrition advice: Potential future use cases hinted through the broader categories in the tool list.
 #### Our case
 Our case is to apply the ROSE robot in elderly care to accomplish three applications. These three applications are respectively: helping the elderly obtain things that are difficult to get; Keep the living environment clean and tidy. And also assist the elderly in conducting self-assessment of their own health status: such as measuring blood pressure every morning, conducting urine tests, and other behaviors.
-</details>
+
 ---
-<details>
+
 ### Selection of Useful Design Tools
 
   
@@ -68,10 +67,9 @@ Wizard of Oz, through the design of restricted perception experiments, simulates
 
 
 #### Lego Series
-</details>
+
 ---
 
-<details>
 ### Senarios
 
 For the interaction between users and robots to be appropriate and sustainable, it is necessary to reduce the influence of uncertainty and negative emotions. Therefore, in addition to the robot's own understanding ability of semantics, it is also necessary to consider different scenarios where users have varying levels of trust in the robot.
@@ -101,10 +99,8 @@ One night, because the robot had failed to charge successfully during the day, i
 Although the robot detected the problem and called her daughter and the nearby medical center in time, and the result showed that Mary’s body was fine, she still refused to keep the robot at home again.
 
 Problems with this scenario response: The robot can rocognize people’s emotion and other data and try to offer help. But users’trust to the robot are so low that even they share the same goal, the users still cannot accept the robot’s help as a daily routine.
-</details>
 ---
 
-<details>
 ### Overview Design
 
 ### Mindmap of Problem Space
@@ -165,7 +161,7 @@ Problems with this scenario response: The robot can rocognize people’s emotion
 ![Pitch](robotpitch.pdf)
 
 ---
-</details>
+
 ---
 ### Expressiveness
 observation of paper-puppeteering：
